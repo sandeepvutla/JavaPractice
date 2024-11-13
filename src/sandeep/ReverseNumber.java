@@ -12,6 +12,7 @@ public class ReverseNumber {
             reverse=reverse*10+rem;
             n=n/10;
         }
+
         System.out.println(reverse);
     }
 }
